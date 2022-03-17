@@ -2,21 +2,25 @@
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
-![输入图片说明](../../pic/image.png)
+<a href='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTU4NzI3NQ==&action=getalbum&album_id=1764511202329624577#wechat_redirect'> 
+<img src='https://gitee.com/gzjzg/WhaleDataScienceProject/raw/master/pic/project_logo.jpg'/></a>
 
 
 ### ❤️阶段目标：
 
-- 了解项目背景、数据基本信息
-    1. Kaggle基础使用
-    2. 风控项目处理思路汇总
-    3. 
 
-* 基于客户、公司、发展前景等层面提出项目解决方案，并评估可行性
+1. Kaggle基础使用
+2. 风控项目处理思路汇总
+3. 基于客户、公司、发展前景等层面提出项目解决方案
+4. 项目可行性评估
 
-    
+ 
+### 💛阶段内容   
 
-- **基于数据提出问题，头脑风暴**
+- 直播时间：4月3日（晚8:00 - 晚9:00）【上半场】 
+    1. 根据数据提出问题，头脑风暴
+    2. 从客户、公司、发展等层面确立项目商业目标、价值
+    3. 梳理项目的`description`、`Evaluation`
 
 - **从客户、公司、发展等层面确立项目商业目标、价值**
 
