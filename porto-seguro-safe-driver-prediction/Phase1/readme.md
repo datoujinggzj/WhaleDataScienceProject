@@ -2,7 +2,6 @@
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
-![输入图片说明](../../pic/driver.png)
 
 ### ❤️阶段目标：
 
