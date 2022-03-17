@@ -1,36 +1,66 @@
-# machine learning
-
-#### Description
-ML Insights
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+# 鲸析数据科学项目第二期
 
 
-#### Gitee Feature
+## 👉个人微信
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![来加我！](pic/qrcode_WeChat.jpg)
+
+## 👉个人公众号：鲸析
+
+![加入鲸析，给你惊喜！](pic/qrcode_account.jpg)
+
+
+## 👉个人网站：
+
+* https://zg104.github.io
+
+## 👉情况调查
+
+请填写【腾讯文档】鲸析DS项目第二期学员情况：https://docs.qq.com/sheet/DRWlVWEpLYkFFdnZx
+
+
+## 👉项目须知
+
+请查看：https://mp.weixin.qq.com/s/ERd90eSg960QQls7PMZyjw
+
+
+## 👉项目简介
+
+- 由巴西的最大规模保险公司发起的基于司机的高维度非显性化特征的发起索赔概率预测项目。
+
+- 原项目链接🔗：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+
+- 鲸析DS项目介绍：http://xhslink.com/taexhg
+
+
+## 👉常见问题
+
+### 和自学有啥区别？
+
+如果你对数据科学有很强的兴趣，有足够时间去摸索，并且对自己的技术充满信心，并且自己也能狗找到志同道合的朋友一起玩耍，那么建议自学。
+
+不然为什么不来参与？
+
+先问问自己几个问题：
+
+> 1. 你有一个月时间做项目么？
+> 2. 你一个月时间自己可以完成项目么？
+> 3. 完成项目后可以理解、挖掘所有知识点、易错点么？
+> 4. 能学习建设自己的一套数据分析、建模体系么？
+> 5. 能完整的跟面试官端到端地叙述整个项目，接住面试官所有的问题么？
+
+1. **思维引导+代码拆解+视频讲解** 至少你在我这里不会因为看了我视频讲解而技术性劝退。
+2. **组长督促+组内讨论+组间竞争** 志同道合的人就在身边，随时组队随时讨论交流，既认识很多朋友，又可以讨论问题。
+3. **面试提升+case梳理+简历完善** 没有portfolio、website不着急么？海外求职也好、国内求职也罢，一份闭环的项目流程经历会让你超过很多peers。
+
+
+
+### 比培训班好在哪里？
+
+1. **免费的**（至少这一期是）
+2. **全链路教程**（真正的端到端做项目，不阉割任何步骤）
+3. **全程追踪**（切实了解各阶段伙伴需求，不断迭代优化，内容不是一成不变）
+4. **presentation**（真实的presentation场景，扎心的组长challenge）
+5. **背景提升**（光荣写入简历、附上github链接）
+
+最终，欢迎大家加入【鲸析】大家庭！一起学习，一起进步！
