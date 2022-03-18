@@ -2,6 +2,8 @@
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
+点击下方👇👇👇logo，获取更多内容~
+
 <a href='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTU4NzI3NQ==&action=getalbum&album_id=1764511202329624577#wechat_redirect'> 
 <img src='https://gitee.com/gzjzg/WhaleDataScienceProject/raw/master/pic/project_logo.jpg'/></a>
 
