@@ -13,51 +13,56 @@
 
 
 - 掌握不平衡类别学习方法（imblearn）
-  - 不平衡性数据的存在场景、处理思路以及模型评估方法 🆕
+
+  - 不平衡性数据的适用场景、处理思路以及模型评估方法 🆕
   - 随机上下采样（undersampling & oversampling）利弊 🆕
+    ![Over vs Under](../../pic/OverVSUnder.png)
   - imblearn模块使用方法汇总 🆕
     - Under-sampling: Tomek links
-    
-
-
+    ![TomekLinks](../../pic/TomekLinks.png)
     - Under-sampling: Cluster Centroids
+    ![ClusterCentroid](../../pic/ClusterCentroid.png)
     - Over-sampling: SMOTE
+    ![SMOTE](../../pic/SMOTE.png)
     - 联合采样
-
+    ![UnderOverSampling](../../pic/UnderOverSampling.png)
 
 - 掌握Seaborn🆕
-
+    
 
  
 ### 💛阶段内容   
 
-- 直播：北京时间2022年4月10日（ **晚9:00 - 晚9:50** ）【上半场】 
-    1. 详细梳理5大变量类型的联系与区别
-    2. 讲解元数据方法论、实际价值、实现方法以及迭代模式
+- 直播：北京时间2022年4月17日（ **晚9:00 - 晚9:50** ）【上半场】 
+    1. 不平衡类别学习（简称imb）的适用场景 🆕
+    2. imb的常用模型评估指标&普通指标的区别 🆕
+    3. imblearn模块使用方法汇总 🆕
 
-- 直播：北京时间2022年4月10日（ **晚10:00 - 晚11:00** ）【下半场】
-    1. 梳理描述性统计实现方法
-    2. 讲解Matplotlib
-    3. 讲解groupby/window function 🔥🔥🔥
+
+- 直播：北京时间2022年4月17日（ **晚10:00 - 晚11:00** ）【下半场】
+    1. 下采样: Tomek links & Cluster Centroids 🆕
+    2. 上采样：SMOTE 🆕
+    3. 联合采样 🆕
+    4. 讲解Seaborn 🆕
 
 ### 💚阶段周期
 
 
-- 4月8日至4月15日
+- 4月15日至4月22日
 
-- 作业截止日期为北京时间4月14日晚上12点
+- 作业截止日期为北京时间4月21日晚上12点
 
 
 ### 💙作业安排
 
 
-1. 第二阶段项目notebook：Phase2
-2. Matplotlib作业
-3. 英文专业词汇整理
+1. 第三阶段项目notebook：Phase3
+2. Seaborn作业 🆕
+3. 英文专业词汇整理 🆕
 
 
 ### 💜其他
 
 
 - 直播录屏会在直播后当天公布
-- 作业答案会在4月15日早上10点公布
+- 作业答案会在4月22日早上10点公布
