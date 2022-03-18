@@ -1,5 +1,7 @@
 ## 第一阶段 项目提案&Python数据分析基础
 
+![输入图片说明](../../pic/proposal.png)
+
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
 点击下方👇👇👇logo，获取更多内容~
@@ -12,11 +14,17 @@
 
 
 
-- Kaggle基础使用
-- 风控项目处理思路汇总
-- 基于客户、公司、发展前景等层面提出项目解决方案
-- 项目可行性评估
+#### Kaggle基础使用
+![输入图片说明](../../pic/kaggle.png)
+ 
+#### 风控项目处理思路汇总
+![输入图片说明](../../pic/risk_management.png)
 
+- 基于客户、公司、发展前景等层面提出项目解决方案
+![输入图片说明](../../pic/solution.png)
+
+- 项目可行性评估
+![输入图片说明](../../pic/feasibility.png)
 
  
 ### 💛阶段内容   
