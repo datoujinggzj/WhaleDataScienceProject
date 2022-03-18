@@ -1,5 +1,7 @@
 ## 第二阶段 元数据&Matplotlib
 
+![输入图片说明](../../pic/metadata.png)
+
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
 点击下方👇👇👇logo，获取更多内容~
@@ -10,13 +12,25 @@
 
 ### ❤️阶段目标
 
+#### 5大变量类型的联系与区别
 
+- 链接：http://xhslink.com/JOqPjg
 
-- 掌握5大变量类型的联系与区别
-- 掌握元数据框架、构建方法、对于高维数据的使用价值和好处
-- 熟悉基于元数据的描述性分析方法
-- 掌握Matplotlib🆕
+![输入图片说明](../../pic/measurement.png)
 
+#### 元数据框架
+
+- 掌握数据框架、构建方法、对于高维数据的使用价值和好处
+
+![输入图片说明](../../pic/meta_example.png)
+
+#### 熟悉基于元数据的描述性分析方法
+
+![输入图片说明](../../pic/descriptive_analysis.png)
+
+#### 掌握Matplotlib🆕
+
+![输入图片说明](../../pic/matplotlib.png)
 
  
 ### 💛阶段内容   
@@ -41,9 +55,9 @@
 ### 💙作业安排
 
 
-1. 第二阶段项目notebook：Phase2
-2. Matplotlib作业
-3. 英文专业词汇整理
+- 第二阶段项目notebook：Phase2
+- Matplotlib作业
+- 英文专业词汇整理
 
 
 ### 💜其他
