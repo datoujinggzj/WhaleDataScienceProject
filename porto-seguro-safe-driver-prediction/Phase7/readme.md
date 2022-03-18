@@ -1,6 +1,6 @@
 ## 第七阶段 项目展示&复盘&简历优化
 
-
+![输入图片说明](../../pic/presentation.jpg)
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
@@ -11,49 +11,49 @@
 
 ### ❤️阶段目标
 
-#### 机器学习算法
+#### PPT演讲
 
-- Linear regression / logistic regression / LDA/QDA / SVM
-- Decision Tree / Random Forest / GBDT / XGBoost / LightGBM / CatBoost 
+![输入图片说明](../../pic/pre_notice.png)
 
+#### 面试模拟
 
-#### XGBoost
+![输入图片说明](../../pic/ds_cycle.png)
 
-- 参数调节
-    
-- 迭代优化
+#### 总结复盘
 
+![输入图片说明](../../pic/project_review.png)
 
-![输入图片说明](../../pic/XGB.png)
+#### 简历优化
+
+![输入图片说明](../../pic/resume.png)
 
 
  
 ### 💛阶段内容   
 
-- 直播：北京时间2022年5月8日（ **晚9:00 - 晚9:50** ）【上半场】 
-    - Linear regression / logistic regression / LDA/QDA / SVM
+- 直播：北京时间2022年5月15日（ **晚9:00 - 晚9:50** ）【上半场】 
+    - PPT演讲
+    - 提问模拟
 
 
 - 直播：北京时间2022年5月8日（ **晚10:00 - 晚11:00** ）【下半场】
-    1. Decision Tree / Random Forest / GBDT / XGBoost / LightGBM / CatBoost 
-    2. XGBoost参数调节&迭代优化
+    1. 项目复盘
+    2. 简历优化
 
 ### 💚阶段周期
 
 
-- 5月6日至5月13日 
-- 作业截止日期为北京时间5月12日晚上12点
+- 5月13日至5月20日 
+- 作业截止日期为北京时间5月19日晚上12点
 
 
 ### 💙作业安排
 
 
-- 第六阶段项目notebook：Phase6
-- 英文专业词汇整理 🆕
+- 项目展示PPT
 
 
 ### 💜其他
 
 
 - 直播录屏会在直播后当天公布
-- 作业答案会在5月12日早上10点公布
