@@ -31,25 +31,24 @@
 ### 💛阶段内容   
 
 - 直播：北京时间2022年5月8日（ **晚9:00 - 晚9:50** ）【上半场】 
-    1. Matplotlib/Seaborn图表特征分析 🆕
-    2. pandas_profiling使用总结 🆕
+    - Linear regression / logistic regression / LDA/QDA / SVM
 
 
 - 直播：北京时间2022年5月8日（ **晚10:00 - 晚11:00** ）【下半场】
-    1. 异常值、离群值处理方法实战 🆕
-    2. 讲解Sklearn 🆕
+    1. Decision Tree / Random Forest / GBDT / XGBoost / LightGBM / CatBoost 
+    2. XGBoost参数调节&迭代优化
 
 ### 💚阶段周期
 
 
-- 4月29日至5月6日
-- 作业截止日期为北京时间5月5日晚上12点
+- 5月6日至5月13日 
+- 作业截止日期为北京时间5月12日晚上12点
 
 
 ### 💙作业安排
 
 
-- 第五阶段项目notebook：Phase5
+- 第六阶段项目notebook：Phase6
 - 英文专业词汇整理 🆕
 
 
@@ -57,4 +56,4 @@
 
 
 - 直播录屏会在直播后当天公布
-- 作业答案会在5月6日早上10点公布
+- 作业答案会在5月12日早上10点公布
