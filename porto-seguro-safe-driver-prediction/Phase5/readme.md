@@ -1,6 +1,6 @@
-## 第四阶段 特征工程&特征选择
+## 第五阶段 特征工程&特征选择
 
-
+![输入图片说明](../../pic/feat_eng.png)
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
@@ -11,50 +11,86 @@
 
 ### ❤️阶段目标
 
-#### 掌握EDA思路、流程及方法
+#### 掌握特征工程的适用场景、实现方法
 
-- 熟练使用Matplotlib/Seaborn绘制图表，并能通过图表分析特征 🆕
-![输入图片说明](../../pic/MatVSSea.png)
-- 异常值、离群值的检测和处理方法汇总 🆕
-    - missing values treatment
-    ![输入图片说明](../../pic/missingvalue.png)
+##### 5大编码方法
 
-    - outliers treatment
-    ![输入图片说明](../../pic/outlier.png)
-- pandas_profiling使用方法汇总 🆕
-![pandas_profiling](../../pic/pandas_profiling.gif)
-- 通过EDA对特征进行合理解释 
-![输入图片说明](../../pic/eda.png)
+- label encoding
+- ordinal encoding
+- onehot encoding
+- target encoding  🔥🔥
+- clustering encoding  🔥🔥
 
-#### 掌握Sklearn 🆕
+![输入图片说明](../../pic/feat_enc.png)
 
-![输入图片说明](../../pic/sklearn.png)
-    
+##### 数据分箱
 
+- 无监督：等距、等频
+- 有监督：卡方、最小熵  🆕
+- WOE/IV贡献 🆕
+
+
+![输入图片说明](../../pic/data_discrete.png)
+
+##### 数据转换
+
+- scaling
+- normalization
+- cliping
+- log scaling
+- z-score
+
+
+![输入图片说明](../../pic/scale.png)
+
+
+##### 特征增强
+- 特征交互：
+    - 多项式构造
+- 特征转换
+    - GBDT+LR
+    ![输入图片说明](../../pic/GBDT_LR.png)
+- 特征降维
+    - pca
+    - T-SNE
+
+
+
+##### 特征选择
+
+![输入图片说明](../../pic/feat_select.png)
+
+- 基于统计指标
+    - 方差
+    - 相关性
+    - 基尼系数
+    - 信息增益
+- 基于模型
+    - 树形模型
+    - RFE等
  
 ### 💛阶段内容   
 
-- 直播：北京时间2022年4月24日（ **晚9:00 - 晚9:50** ）【上半场】 
+- 直播：北京时间2022年5月1日（ **晚9:00 - 晚9:50** ）【上半场】 
     1. Matplotlib/Seaborn图表特征分析 🆕
     2. pandas_profiling使用总结 🆕
 
 
-- 直播：北京时间2022年4月24日（ **晚10:00 - 晚11:00** ）【下半场】
+- 直播：北京时间2022年5月1日（ **晚10:00 - 晚11:00** ）【下半场】
     1. 异常值、离群值处理方法实战 🆕
     2. 讲解Sklearn 🆕
 
 ### 💚阶段周期
 
 
-- 4月22日至4月29日
-- 作业截止日期为北京时间4月28日晚上12点
+- 4月29日至5月6日
+- 作业截止日期为北京时间5月5日晚上12点
 
 
 ### 💙作业安排
 
 
-- 第四阶段项目notebook：Phase4
-- Sklearn作业 🆕
+- 第五阶段项目notebook：Phase5
 - 英文专业词汇整理 🆕
 
 
@@ -62,4 +98,4 @@
 
 
 - 直播录屏会在直播后当天公布
-- 作业答案会在4月29日早上10点公布
+- 作业答案会在5月6日早上10点公布
