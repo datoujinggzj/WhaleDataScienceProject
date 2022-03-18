@@ -3,7 +3,7 @@
 
 ## 👉个人微信
 
-![来加我！](pic/qrcode_WeChat.jpg)
+![输入图片说明](pic/qr.jpg)
 
 ## 👉个人公众号：鲸析
 
