@@ -1,6 +1,6 @@
-## 第五阶段 特征工程&特征选择
+## 第六阶段 机器学习建模
 
-![输入图片说明](../../pic/feat_eng.png)
+![输入图片说明](../../pic/ml_logo.jpeg)
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
@@ -11,72 +11,31 @@
 
 ### ❤️阶段目标
 
-#### 掌握特征工程的适用场景、实现方法
+#### 机器学习算法
 
-##### 5大编码方法
-
-- label encoding
-- ordinal encoding
-- onehot encoding
-- target encoding  🔥🔥
-- clustering encoding  🔥🔥
-
-![输入图片说明](../../pic/feat_enc.png)
-
-##### 数据分箱
-
-- 无监督：等距、等频
-- 有监督：卡方、最小熵  🆕
-- WOE/IV贡献 🆕
+- Linear regression / logistic regression / LDA/QDA / SVM
+- Decision Tree / Random Forest / GBDT / XGBoost / LightGBM / CatBoost 
 
 
-![输入图片说明](../../pic/data_discrete.png)
+#### XGBoost
 
-##### 数据转换
-
-- scaling
-- normalization
-- cliping
-- log scaling
-- z-score
+- 参数调节
+    
+- 迭代优化
 
 
-![输入图片说明](../../pic/scale.png)
+![输入图片说明](../../pic/XGB.png)
 
 
-##### 特征增强
-- 特征交互：
-    - 多项式构造
-- 特征转换
-    - GBDT+LR
-    ![输入图片说明](../../pic/GBDT_LR.png)
-- 特征降维
-    - pca
-    - T-SNE
-
-
-
-##### 特征选择
-
-![输入图片说明](../../pic/feat_select.png)
-
-- 基于统计指标
-    - 方差
-    - 相关性
-    - 基尼系数
-    - 信息增益
-- 基于模型
-    - 树形模型
-    - RFE等
  
 ### 💛阶段内容   
 
-- 直播：北京时间2022年5月1日（ **晚9:00 - 晚9:50** ）【上半场】 
+- 直播：北京时间2022年5月8日（ **晚9:00 - 晚9:50** ）【上半场】 
     1. Matplotlib/Seaborn图表特征分析 🆕
     2. pandas_profiling使用总结 🆕
 
 
-- 直播：北京时间2022年5月1日（ **晚10:00 - 晚11:00** ）【下半场】
+- 直播：北京时间2022年5月8日（ **晚10:00 - 晚11:00** ）【下半场】
     1. 异常值、离群值处理方法实战 🆕
     2. 讲解Sklearn 🆕
 
