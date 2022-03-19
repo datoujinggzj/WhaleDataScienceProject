@@ -21,8 +21,10 @@
 
     - outliers treatment
     ![输入图片说明](../../pic/outlier.png)
+
 - pandas_profiling使用方法汇总 🆕
 ![pandas_profiling](../../pic/pandas_profiling.gif)
+
 - 通过EDA对特征进行合理解释 
 ![输入图片说明](../../pic/eda.png)
 
