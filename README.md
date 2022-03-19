@@ -36,7 +36,7 @@
 
 - [鲸析DS项目视频介绍](http://xhslink.com/taexhg)
 
-## 项目fork
+## 👉项目fork
 
 - 参考官方文档：https://gitee.com/help/articles/4128
 - gitee fork 源作者更新后如何同步更新且不覆盖自己的代码：https://blog.csdn.net/luoyeyilin/article/details/108994031
