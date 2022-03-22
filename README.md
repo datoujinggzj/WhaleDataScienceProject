@@ -3,21 +3,29 @@
 
 ## 👉个人微信
 
-<img src=pic/qr.jpg width='300' />
+<div align=center>
+<img src=pic/qr.jpg width='400' />
+</div>
+
 
 
 ## 👉个人公众号：鲸析
 
+<div align=center>
 ![加入鲸析，给你惊喜！](pic/qrcode_account.jpg)
+</div>
 
 ## 👉个人小红书：鲸鲸说数据🐋
 
-
-<img src=pic/xhs.jpg width='300' />
+<div align=center>
+<img src=pic/xhs.jpg width='400' />
+</div>
 
 ## 👉个人网站：
 
+<div align=center>
 <img src=pic/Personal_web.png width='800' />
+</div>
 
 * https://zg104.github.io
 
@@ -38,8 +46,9 @@
 
 ## 👉项目简介
 
-
+<div align=center>
 <img src=pic/porto_logo.png width='800' />
+</div>
 
 - 由巴西的最大规模保险公司发起的基于司机的高维度非显性化特征的发起索赔概率预测项目。
 
