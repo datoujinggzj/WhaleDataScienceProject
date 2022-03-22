@@ -12,8 +12,6 @@
 
 ## 👉个人小红书：鲸鲸说数据🐋
 
-![输入图片说明](pic/xhs.jpg)
-
 
 <img src=pic/xhs.jpg style="zoom:15%;" />
 
