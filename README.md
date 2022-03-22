@@ -11,8 +11,10 @@
 
 ## 👉个人公众号：鲸析
 
+<font color=red>关注鲸析，给你惊喜！</font>
+
 <div align=center>
-![加入鲸析，给你惊喜！](pic/qrcode_account.jpg)
+<img src=pic/qrcode_account.jpg width='400' />
 </div>
 
 ## 👉个人小红书：鲸鲸说数据🐋
