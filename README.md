@@ -17,7 +17,7 @@
 
 ## 👉个人网站：
 
-![输入图片说明](pic/Personal_web.png)
+<img src=pic/Personal_web.png width='1000' />
 
 * https://zg104.github.io
 
@@ -39,7 +39,7 @@
 ## 👉项目简介
 
 
-<img src=pic/porto_logo.png width='600' />
+<img src=pic/porto_logo.png width='1000' />
 
 - 由巴西的最大规模保险公司发起的基于司机的高维度非显性化特征的发起索赔概率预测项目。
 
