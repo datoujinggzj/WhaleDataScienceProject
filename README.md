@@ -1,1 +1,1 @@
-# WhaleDataScience
+# Whale Data Science Project
