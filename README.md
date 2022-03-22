@@ -5,16 +5,26 @@
 
 ![输入图片说明](pic/qr.jpg)
 
+
 ## 👉个人公众号：鲸析
 
 ![加入鲸析，给你惊喜！](pic/qrcode_account.jpg)
 
+## 👉个人小红书：鲸鲸说数据🐋
+
+![输入图片说明](pic/xhs.jpg)
+
+
+<img src=pic/xhs.jpg style="zoom:15%;" />
 
 ## 👉个人网站：
+
+![输入图片说明](pic/Personal_web.png)
 
 * https://zg104.github.io
 
 ## 👉情况调查
+
 
 请填写【腾讯文档】鲸析DS项目第二期学员情况 👇👇👇
 
@@ -29,6 +39,8 @@
 
 
 ## 👉项目简介
+
+![输入图片说明](pic/porto_logo.png)
 
 - 由巴西的最大规模保险公司发起的基于司机的高维度非显性化特征的发起索赔概率预测项目。
 
