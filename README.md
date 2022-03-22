@@ -3,7 +3,7 @@
 
 ## 👉个人微信
 
-![输入图片说明](pic/qr.jpg)
+<img src=pic/qr.jpg width='300' />
 
 
 ## 👉个人公众号：鲸析
