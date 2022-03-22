@@ -13,7 +13,7 @@
 ## 👉个人小红书：鲸鲸说数据🐋
 
 
-<img src=pic/xhs.jpg style="zoom:15%;" />
+<img src=pic/xhs.jpg width='100' />
 
 ## 👉个人网站：
 
