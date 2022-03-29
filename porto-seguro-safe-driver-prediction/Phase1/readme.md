@@ -14,9 +14,11 @@
 
 点击下方👇👇👇logo，获取更多内容~
 
-<a href='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTU4NzI3NQ==&action=getalbum&album_id=1764511202329624577#wechat_redirect'> 
-<img src='https://gitee.com/gzjzg/WhaleDataScienceProject/raw/master/pic/project_logo.jpg' width='500' /></a>
 
+<div align=center>
+<a href='https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTU4NzI3NQ==&action=getalbum&album_id=1764511202329624577#wechat_redirect'> 
+<img src='https://gitee.com/gzjzg/WhaleDataScienceProject/raw/master/pic/project_logo.jpg' width='800' /></a>
+</div>
 
 ### ❤️阶段目标
 
