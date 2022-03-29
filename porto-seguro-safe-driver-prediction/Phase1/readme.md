@@ -4,6 +4,9 @@
 <img src=../../pic/safe_driver_proposal.gif width='400' />
 </div>
 
+<div align=center>
+<img src=../../pic/sep.gif/>
+</div>
 
 <div align=center>
 <img src=../../pic/proposal.png width='800' />
