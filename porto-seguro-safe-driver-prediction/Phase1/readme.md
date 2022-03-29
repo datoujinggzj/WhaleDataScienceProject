@@ -1,5 +1,7 @@
 ## 第一阶段 项目提案&Python数据分析基础
 
+![输入图片说明](../../pic/safe_driver_proposal.gif)
+
 ![输入图片说明](../../pic/proposal.png)
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
