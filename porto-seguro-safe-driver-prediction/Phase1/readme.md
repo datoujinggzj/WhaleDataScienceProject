@@ -1,7 +1,7 @@
 ## 第一阶段 项目提案&Python数据分析基础
 
 <div align=center>
-<img src=../../pic/safe_driver_proposal.gif width='600' />
+<img src=../../pic/safe_driver_proposal.gif width='400' />
 </div>
 
 ![输入图片说明](../../pic/proposal.png)
