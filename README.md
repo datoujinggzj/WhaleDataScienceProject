@@ -7,7 +7,7 @@
 <img src=pic/qr.jpg width='400' />
 </div>
 
-
+![输入图片说明](pic/sep.gif)
 
 ## 👉个人公众号：鲸析
 
