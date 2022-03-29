@@ -4,7 +4,11 @@
 <img src=../../pic/safe_driver_proposal.gif width='400' />
 </div>
 
-![输入图片说明](../../pic/proposal.png)
+
+<div align=center>
+<img src=../../pic/proposal.png width='600' />
+</div>
+
 
 原项目链接：https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
